@@ -21,6 +21,6 @@ int main()
     return 0;    
 }
 ```
-## Output:
+## Result:
 <img width="642" height="281" alt="image" src="https://github.com/user-attachments/assets/82aad3da-fea3-44b7-afe7-61df79f6170c" />
 
